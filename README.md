@@ -1,2 +1,2 @@
 # MeteoWebApi
-Api meteo written in go
+Api meteo written in go and elixir
