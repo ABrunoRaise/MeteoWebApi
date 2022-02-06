@@ -19,3 +19,4 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/meteo_web_api](https://hexdocs.pm/meteo_web_api).
 
+To build the file "run mix escript.build" then ./meteo_web_api
